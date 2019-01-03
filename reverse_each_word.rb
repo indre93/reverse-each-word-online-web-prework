@@ -5,7 +5,7 @@ def reverse_each_word(sentence = "Hello there, and how are you?")
   end
 end
 
-
+  array = sentence.split
 
 
 
